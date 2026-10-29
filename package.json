@@ -1,0 +1,19 @@
+{
+  "name": "liaocong-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/prepare-catalog.mjs && vite --host 127.0.0.1",
+    "build": "node scripts/prepare-catalog.mjs && vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "deploy": "node scripts/deploy-pages.mjs"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "vite": "^7.1.0"
+  }
+}

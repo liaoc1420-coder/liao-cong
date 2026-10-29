@@ -1,0 +1,18 @@
+node_modules/
+dist/
+.DS_Store
+
+# Generated from src/projects.json by prepare-catalog
+preview-*.png
+source-assets/
+asset-sources.json
+performance-media-report.json
+*.command
+.env
+.env.*
+!.env.example
+.tools/
+
+public/assets/portrait.webp
+
+.github/workflows/

@@ -1,0 +1,283 @@
+{
+  "hero": [
+    {
+      "id": "06103c81a974ce34",
+      "src": "/assets/films/06103c81a974ce34-hero.mp4",
+      "title": "轻运动 · 影像 02",
+      "group": "AIGC",
+      "source": "AIGC/人像系列/「轻运动系列」AI出图/视频2.mp4",
+      "poster": "/assets/films/06103c81a974ce34.jpg",
+      "originalSrc": "/assets/films/06103c81a974ce34.mp4"
+    },
+    {
+      "id": "e6e1aaec1ef65101",
+      "src": "/assets/films/e6e1aaec1ef65101-hero.mp4",
+      "title": "COCOZONE · 蓝调花絮",
+      "group": "走秀",
+      "source": "拍摄:后期/COCOZONE-2026-春夏走秀/走秀预告/蓝调花絮.mp4",
+      "poster": "/assets/films/e6e1aaec1ef65101.jpg",
+      "originalSrc": "/assets/films/e6e1aaec1ef65101.mp4"
+    },
+    {
+      "id": "09e40dba0b434a09",
+      "src": "/assets/films/09e40dba0b434a09-hero.mp4",
+      "title": "COCOZONE · 首发预告",
+      "group": "走秀",
+      "source": "拍摄:后期/COCOZONE-2026-春夏走秀/走秀预告/首发预告.mp4",
+      "poster": "/assets/films/09e40dba0b434a09.jpg",
+      "originalSrc": "/assets/films/09e40dba0b434a09.mp4"
+    },
+    {
+      "id": "ee6a1763af99a89a",
+      "src": "/assets/films/ee6a1763af99a89a-hero.mp4",
+      "title": "秋季大片 · 合辑 02",
+      "group": "AIGC",
+      "source": "AIGC/AI视频/秋季大片/合辑2.mp4",
+      "poster": "/assets/films/ee6a1763af99a89a.jpg",
+      "originalSrc": "/assets/films/ee6a1763af99a89a.mp4"
+    },
+    {
+      "id": "49148f53e5680c93",
+      "src": "/assets/films/49148f53e5680c93-hero.mp4",
+      "title": "秋季大片 · 合辑 01",
+      "group": "AIGC",
+      "source": "AIGC/AI视频/秋季大片/合辑1.mp4",
+      "poster": "/assets/films/49148f53e5680c93.jpg",
+      "originalSrc": "/assets/films/49148f53e5680c93.mp4"
+    }
+  ],
+  "runway": [
+    {
+      "id": "09e40dba0b434a09",
+      "src": "/assets/films/09e40dba0b434a09-web.mp4",
+      "title": "COCOZONE · 启程",
+      "group": "走秀预告",
+      "source": "拍摄:后期/COCOZONE-2026-春夏走秀/走秀预告/首发预告.mp4",
+      "poster": "/assets/films/09e40dba0b434a09.jpg",
+      "originalTitle": "COCOZONE · 首发预告",
+      "originalSrc": "/assets/films/09e40dba0b434a09.mp4"
+    },
+    {
+      "id": "e6e1aaec1ef65101",
+      "src": "/assets/films/e6e1aaec1ef65101-web.mp4",
+      "title": "COCOZONE · 蓝时",
+      "group": "走秀预告",
+      "source": "拍摄:后期/COCOZONE-2026-春夏走秀/走秀预告/蓝调花絮.mp4",
+      "poster": "/assets/films/e6e1aaec1ef65101.jpg",
+      "originalTitle": "COCOZONE · 蓝调花絮",
+      "originalSrc": "/assets/films/e6e1aaec1ef65101.mp4"
+    },
+    {
+      "id": "11a6c487a3373ce4",
+      "src": "/assets/films/11a6c487a3373ce4-web.mp4",
+      "title": "COCOZONE · 序言",
+      "group": "走秀预告",
+      "source": "拍摄:后期/COCOZONE-2026-春夏走秀/走秀预告/报纸预告.mp4",
+      "poster": "/assets/films/11a6c487a3373ce4.jpg",
+      "originalTitle": "COCOZONE · 报纸预告",
+      "originalSrc": "/assets/films/11a6c487a3373ce4.mp4"
+    },
+    {
+      "id": "a128ba46a714c268",
+      "src": "/assets/films/a128ba46a714c268-web.mp4",
+      "title": "COCOZONE · 流光",
+      "group": "走秀预告",
+      "source": "拍摄:后期/COCOZONE-2026-春夏走秀/走秀预告/5月25日-副本.mp4",
+      "poster": "/assets/films/a128ba46a714c268.jpg",
+      "originalTitle": "COCOZONE · 5月25日-副本",
+      "originalSrc": "/assets/films/a128ba46a714c268.mp4"
+    },
+    {
+      "id": "398c42f8b9022156",
+      "src": "/assets/films/398c42f8b9022156-web.mp4",
+      "title": "COCOZONE · 将至",
+      "group": "走秀预告",
+      "source": "拍摄:后期/COCOZONE-2026-春夏走秀/走秀预告/5月25日 (1).mp4",
+      "poster": "/assets/films/398c42f8b9022156.jpg",
+      "originalTitle": "COCOZONE · 5月25日 (1)",
+      "originalSrc": "/assets/films/398c42f8b9022156.mp4"
+    },
+    {
+      "id": "12f066a31c69762b",
+      "src": "/assets/films/12f066a31c69762b-web.mp4",
+      "title": "COCOZONE · 邂逅",
+      "group": "走秀花絮",
+      "source": "拍摄:后期/COCOZONE-2026-春夏走秀/走秀花絮/走秀首发.mp4",
+      "poster": "/assets/films/12f066a31c69762b.jpg",
+      "originalTitle": "COCOZONE · 走秀首发",
+      "originalSrc": "/assets/films/12f066a31c69762b.mp4"
+    },
+    {
+      "id": "9eb8392e3af64294",
+      "src": "/assets/films/9eb8392e3af64294-web.mp4",
+      "title": "COCOZONE · 幕间",
+      "group": "走秀花絮",
+      "source": "拍摄:后期/COCOZONE-2026-春夏走秀/走秀花絮/花絮混剪2.mp4",
+      "poster": "/assets/films/9eb8392e3af64294.jpg",
+      "originalTitle": "COCOZONE · 花絮混剪2",
+      "originalSrc": "/assets/films/9eb8392e3af64294.mp4"
+    },
+    {
+      "id": "7d792963d9a64613",
+      "src": "/assets/films/7d792963d9a64613-web.mp4",
+      "title": "COCOZONE · 掠影",
+      "group": "走秀花絮",
+      "source": "拍摄:后期/COCOZONE-2026-春夏走秀/走秀花絮/花絮混剪1.mp4",
+      "poster": "/assets/films/7d792963d9a64613.jpg",
+      "originalTitle": "COCOZONE · 花絮混剪1",
+      "originalSrc": "/assets/films/7d792963d9a64613.mp4"
+    },
+    {
+      "id": "af39570059871aa2",
+      "src": "/assets/films/af39570059871aa2-web.mp4",
+      "title": "COCOZONE · 初见",
+      "group": "走秀花絮",
+      "source": "拍摄:后期/COCOZONE-2026-春夏走秀/走秀花絮/4月29日.mp4",
+      "poster": "/assets/films/af39570059871aa2.jpg",
+      "originalTitle": "COCOZONE · 4月29日",
+      "originalSrc": "/assets/films/af39570059871aa2.mp4"
+    }
+  ],
+  "ai": [
+    {
+      "id": "06103c81a974ce34",
+      "src": "/assets/films/06103c81a974ce34-web.mp4",
+      "title": "轻盈出走 · 让日常动起来",
+      "group": "轻运动 / 生活方式",
+      "source": "AIGC/AI视频/轻运动/视频2.mp4",
+      "poster": "/assets/films/06103c81a974ce34.jpg",
+      "originalTitle": "轻运动 · 视频2",
+      "originalSrc": "/assets/films/06103c81a974ce34.mp4"
+    },
+    {
+      "id": "ee6a1763af99a89a",
+      "src": "/assets/films/ee6a1763af99a89a-web.mp4",
+      "title": "秩序之间 · 秋冬序章",
+      "group": "COCOZONE / 2026 秋冬",
+      "source": "AIGC/AI视频/秋季大片/合辑2.mp4",
+      "poster": "/assets/films/ee6a1763af99a89a.jpg",
+      "originalTitle": "秋季大片 · 合辑2",
+      "originalSrc": "/assets/films/ee6a1763af99a89a.mp4"
+    },
+    {
+      "id": "49148f53e5680c93",
+      "src": "/assets/films/49148f53e5680c93-web.mp4",
+      "title": "光影成衣 · 秋日叙事",
+      "group": "COCOZONE / 2026 秋冬",
+      "source": "AIGC/AI视频/秋季大片/合辑1.mp4",
+      "poster": "/assets/films/49148f53e5680c93.jpg",
+      "originalTitle": "秋季大片 · 合辑1",
+      "originalSrc": "/assets/films/49148f53e5680c93.mp4"
+    },
+    {
+      "id": "70d2d701e66b3b55",
+      "src": "/assets/films/70d2d701e66b3b55-web.mp4",
+      "title": "虚拟秀场 · 步入想象",
+      "group": "AI 时装 / 动态探索",
+      "source": "AIGC/AI视频/成片-走秀-无logo.mp4",
+      "poster": "/assets/films/70d2d701e66b3b55.jpg",
+      "originalTitle": "成片-走秀-无logo",
+      "originalSrc": "/assets/films/70d2d701e66b3b55.mp4"
+    },
+    {
+      "id": "e9b8ebaf8195e215",
+      "src": "/assets/films/e9b8ebaf8195e215-web.mp4",
+      "title": "一衣多面 · 风格切换",
+      "group": "服装搭配 / 造型实验",
+      "source": "AIGC/AI视频/一衣多穿.mp4",
+      "poster": "/assets/films/e9b8ebaf8195e215.jpg",
+      "originalTitle": "一衣多穿",
+      "originalSrc": "/assets/films/e9b8ebaf8195e215.mp4"
+    },
+    {
+      "id": "0816cbb848a29930",
+      "src": "/assets/films/0816cbb848a29930-web.mp4",
+      "title": "衣间留白 · 外套与白裙",
+      "group": "时髦通勤 / 静物影像",
+      "source": "AIGC/AI视频/时髦通勤静物视频/外套+白裙/外套+白裙.mp4",
+      "poster": "/assets/films/0816cbb848a29930.jpg",
+      "originalTitle": "外套+白裙 · 外套+白裙",
+      "originalSrc": "/assets/films/0816cbb848a29930.mp4"
+    },
+    {
+      "id": "757055b14be78d06",
+      "src": "/assets/films/757055b14be78d06-web.mp4",
+      "title": "日常转场 · 风扇与打印机",
+      "group": "时髦通勤 / 场景实验",
+      "source": "AIGC/AI视频/时髦通勤静物视频/风扇+打印机/风扇+打印机.mp4",
+      "poster": "/assets/films/757055b14be78d06.jpg",
+      "originalTitle": "风扇+打印机 · 风扇+打印机",
+      "originalSrc": "/assets/films/757055b14be78d06.mp4"
+    },
+    {
+      "id": "280ee12311fde406",
+      "src": "/assets/films/280ee12311fde406-web.mp4",
+      "title": "城市漫游 · Active 日记",
+      "group": "秋冬 Active / 生活方式",
+      "source": "AIGC/AI视频/秋冬「Active轻运动」/视频2.mp4",
+      "poster": "/assets/films/280ee12311fde406.jpg",
+      "originalTitle": "秋冬「Active轻运动」 · 视频2",
+      "originalSrc": "/assets/films/280ee12311fde406.mp4"
+    },
+    {
+      "id": "89835bfacde49e4e",
+      "src": "/assets/films/89835bfacde49e4e-web.mp4",
+      "title": "慢下来 · 轻运动时刻",
+      "group": "轻运动 / 生活方式",
+      "source": "AIGC/AI视频/轻运动/视频1.mp4",
+      "poster": "/assets/films/89835bfacde49e4e.jpg",
+      "originalTitle": "轻运动 · 视频1",
+      "originalSrc": "/assets/films/89835bfacde49e4e.mp4"
+    },
+    {
+      "id": "d91614e489b1ef5a",
+      "src": "/assets/films/d91614e489b1ef5a-web.mp4",
+      "title": "城市温度 · 通勤序曲",
+      "group": "通勤大衣 / 时装影像",
+      "source": "AIGC/AI视频/通勤系列/视频1.mp4",
+      "poster": "/assets/films/d91614e489b1ef5a.jpg",
+      "originalTitle": "通勤系列 · 视频1",
+      "originalSrc": "/assets/films/d91614e489b1ef5a.mp4"
+    },
+    {
+      "id": "39da15d1397f39e3",
+      "src": "/assets/films/39da15d1397f39e3-web.mp4",
+      "title": "穿行光里 · 都市片刻",
+      "group": "通勤大衣 / 时装影像",
+      "source": "AIGC/AI视频/通勤系列/视频2.mp4",
+      "poster": "/assets/films/39da15d1397f39e3.jpg",
+      "originalTitle": "通勤系列 · 视频2",
+      "originalSrc": "/assets/films/39da15d1397f39e3.mp4"
+    },
+    {
+      "id": "686f8e3c7dce8810",
+      "src": "/assets/films/686f8e3c7dce8810-web.mp4",
+      "title": "自在启程 · Active 序章",
+      "group": "秋冬 Active / 生活方式",
+      "source": "AIGC/AI视频/秋冬「Active轻运动」/视频1.mp4",
+      "poster": "/assets/films/686f8e3c7dce8810.jpg",
+      "originalTitle": "秋冬「Active轻运动」 · 视频1",
+      "originalSrc": "/assets/films/686f8e3c7dce8810.mp4"
+    },
+    {
+      "id": "08fbf83ed5afaf6a",
+      "src": "/assets/films/08fbf83ed5afaf6a-web.mp4",
+      "title": "物的预告 · 日常新序",
+      "group": "时髦通勤 / 视觉预告",
+      "source": "AIGC/静物系列/时髦通勤AI静物图、预告视频/预告视频/预告视频.mp4",
+      "poster": "/assets/films/08fbf83ed5afaf6a.jpg",
+      "originalTitle": "预告视频 · 预告视频",
+      "originalSrc": "/assets/films/08fbf83ed5afaf6a.mp4"
+    }
+  ],
+  "lb": {
+    "id": "ea6fb50e3f06eecf",
+    "src": "/assets/films/ea6fb50e3f06eecf-web.mp4",
+    "title": "Licht Bestreben · 品牌宣发花絮",
+    "group": "品牌影像",
+    "source": "拍摄:后期/LB宣发花絮/LB-宣发花絮.mp4",
+    "poster": "/assets/films/ea6fb50e3f06eecf.jpg",
+    "originalSrc": "/assets/films/ea6fb50e3f06eecf.mp4"
+  },
+  "aiUnlisted": []
+}
