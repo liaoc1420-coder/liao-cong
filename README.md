@@ -60,3 +60,10 @@ pnpm preview
 - 线上路径通过 `VITE_BASE_PATH=/liao-cong/` 设置，所有图片、视频与组图地址支持该子路径。
 - 本地 `pnpm dev` 仍使用根路径。
 - 只上传网站使用的网页素材；`source-assets`、预览截图、开发依赖和本地素材来源表不提交。
+
+## Cloudflare Workers 部署
+
+- 构建命令：`pnpm run build`。
+- 部署命令：`npx wrangler deploy`。
+- `wrangler.jsonc` 指定直接发布 `dist` 静态资源，无需自动安装或接入 Cloudflare Vite 插件。
+- Cloudflare 根域名部署时不设置 `VITE_BASE_PATH`，保持默认 `/`；GitHub Pages 的发布脚本仍单独设置子路径。
