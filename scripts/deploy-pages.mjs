@@ -1,6 +1,6 @@
 import {mkdtempSync,cpSync,readdirSync,rmSync,writeFileSync} from 'node:fs';
 import {tmpdir} from 'node:os';
-import {join} from 'node:path';
+import {join,resolve} from 'node:path';
 import {spawnSync} from 'node:child_process';
 const remote='https://github.com/liaoc1420-coder/liao-cong.git';
 function run(command,args,options={}){const result=spawnSync(command,args,{stdio:'inherit',...options});if(result.status!==0)throw new Error(`${command} failed (${result.status})`);return result}
@@ -9,6 +9,9 @@ run(process.execPath,['node_modules/vite/bin/vite.js','build'],{env:{...process.
 const folder=mkdtempSync(join(tmpdir(),'liao-cong-pages-'));
 try{
  run('git',['init','-b','gh-pages',folder]);
+ // Reuse local Git objects so identical media is not uploaded twice.
+ const common=spawnSync('git',['rev-parse','--git-common-dir'],{encoding:'utf8'});
+ if(common.status===0)writeFileSync(join(folder,'.git/objects/info/alternates'),resolve(common.stdout.trim(),'objects')+'\n');
  run('git',['remote','add','origin',remote],{cwd:folder});
  const check=spawnSync('git',['ls-remote','--exit-code','--heads',remote,'gh-pages'],{encoding:'utf8'});
  if(check.status===0){run('git',['fetch','--depth=1','origin','gh-pages'],{cwd:folder});run('git',['checkout','--detach','FETCH_HEAD'],{cwd:folder})}
